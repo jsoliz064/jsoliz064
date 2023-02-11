@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsoliz064" alt="jsoliz064" /></a> </p>
 
-- 🔭 <a href="https://jsoliz064.github.io/">CV</a>
+- 🔭 <a href="https://jsoliz064.github.io/">Currilum Vitae</a>
 
 - 💬 Ask me about **Laravel, node.js, flutter**
 
