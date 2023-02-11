@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsoliz064" alt="jsoliz064" /></a> </p>
 
-- 🔭 I’m currently working on [Bigpack](https://github.com/jsoliz064/bigpack.git)
+- 🔭 <a href="https://jsoliz064.github.io/">CV</a>
 
-- 💬 Ask me about **react, node.js, flutter**
+- 💬 Ask me about **Laravel, node.js, flutter**
 
 - 📫 How to reach me **jsoliz064@gmail.com**
 
