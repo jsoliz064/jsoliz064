@@ -7,7 +7,7 @@
 
 - 🔭 <a href="https://jsoliz064.github.io/">Currilum Vitae</a>
 
-- 💬 Ask me about **Laravel, node.js, flutter**
+- 💬 Ask me about **Laravel, Node.js, Oracle, AWS**
 
 - 📫 How to reach me **jsoliz064@gmail.com**
 
