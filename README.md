@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Daniel Soliz</h1>
-<h3 align="center">A passionate Backend developer from Bolivia - Universidad UAGRM - ING. EN SISTEMAS</h3>
+<h3 align="center">A passionate Backend developer and DevOps from Bolivia - ING. EN SISTEMAS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsoliz064&label=Profile%20views&color=0e75b6&style=flat" alt="jsoliz064" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 <a href="https://jsoliz064.github.io/">Currilum Vitae</a>
 
-- 💬 Ask me about **Laravel, Node.js, Oracle, AWS**
+- 💬 Ask me about **Nest.js, Laravel, Node.js, Oracle, AWS**
 
 - 📫 How to reach me **jsoliz064@gmail.com**
 
